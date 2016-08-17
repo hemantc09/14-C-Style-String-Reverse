@@ -26,7 +26,7 @@ public class CReverse {
 							//it will give you array index out of bound exception in the while loop
 		char temp;
 		
-		while(i<j) //swap the character in simple way
+		while(i<j) //swap the character in simple way using third variable
 		{
 			temp=s3[i];
 			s3[i]=s3[j];
