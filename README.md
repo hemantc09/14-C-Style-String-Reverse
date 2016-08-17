@@ -5,7 +5,7 @@ Questions: Write code to reverse a C-Style String.
 
 1. Input a string 
 2. Convert to char array
-3. reverse using temp variable ignore null character 
+3. reverse using temp variable ignore null character [Basially we are doing character swapping here]
 4. display
 
 Regards,
